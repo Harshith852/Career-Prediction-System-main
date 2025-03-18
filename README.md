@@ -32,7 +32,7 @@ An intelligent career prediction system that uses machine learning to suggest op
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/Harshith852/Career-Prediction-System-main.git
 cd career-prediction-system
 ```
 
@@ -120,16 +120,6 @@ Average accuracy across models: ~85-90%
 ## 📚 References
 
 This project is built upon research from various academic papers and studies in the field of career prediction and machine learning. For detailed references, see `references.bib`.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## ✨ Acknowledgments
-
-- Research papers and studies cited in `references.bib`
-- Contributors and maintainers
-- Open source community
 
 ## 👤 Author
 
