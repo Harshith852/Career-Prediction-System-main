@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Project specific
+pkl/
+!pkl/.gitkeep
+data/*.csv
+!data/.gitkeep
+*.log
+
+# Keep directories but ignore contents
+data/
+!data/.gitkeep
